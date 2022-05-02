@@ -1,0 +1,111 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    /* border-radius: 35px; */
+}
+body{
+    background-color: aqua;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* min-height: 100vh; */
+}
+.container{
+    /* position: relative; */
+    width: 950px;
+    /* max-width: 1000px; */
+    /* min-height: 800px; */
+    background: #002300;
+     margin: 0px auto; 
+    display: flex;
+    box-shadow: 0 35px 55px rgba(0, 0, 0, 0);
+}
+.leftside{
+    background: black;
+    padding: 20px;
+}
+.rightside{
+    background: khaki;
+    color: brown;
+    padding: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.technical{
+    color: yellow;
+    background-color: black;
+    border-bottom: solid;
+}
+.name{
+    
+    color: white;
+}
+.developer{
+   color: skyblue;
+   /* margin: 50px; */
+   padding: 15px;
+   border-bottom:solid;
+   text-align: center;
+}
+.name{
+    text-align: center;
+    color: bisque;
+    background-color: blue;
+}
+.skills{
+    color: bisque;
+    border-bottom: solid;
+    text-align: left;
+    margin: 0,0,25px;
+}
+.skill1{
+    color: bisque;
+    margin-bottom: 20px;
+}
+.info{
+    color: bisque;
+    border-bottom: solid;
+    text-align: left;
+    
+}
+.table{
+    color: bisque;
+    border-bottom: solid;
+    text-align: left;
+    margin: 0,0,25px;
+}
+.sslc tr,td{
+    padding: 5px;
+}
+.inter{
+    background-color:black;height: 50px;
+    color: blueviolet;
+    padding: 3%;
+}
+.company{
+    color: deeppink;
+}
+.company{
+    color: deeppink;
+}
+.professional{
+    background-color: black;height: 50px;
+    color: blueviolet;
+    margin: auto;
+    padding: 3%;
+}
+.qualification{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.hobby{
+    margin-right: 50%;
+    background-color: black;
+    color: blueviolet;
+}
+.home li{
+    list-style: none;
+    padding: 3%;
+    color: beige;
+}
